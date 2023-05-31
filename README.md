@@ -14,7 +14,7 @@
 #### 二、功能介绍
 
 
-<iframe src="//player.bilibili.com/player.html?aid=612801653&bvid=BV1ph4y1p7Hq&cid=1105709938&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https//player.bilibili.com/player.html?aid=612801653&bvid=BV1ph4y1p7Hq&cid=1105709938&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
